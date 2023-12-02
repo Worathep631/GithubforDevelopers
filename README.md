@@ -25,5 +25,3 @@ Answer 234567
 
 If you have any feedback, please reach out to us at S6323805124@pkru.ac.th
 
-
-![Logo](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.facebook.com%2FLogodotcom%2F%3Flocale%3Des_LA&psig=AOvVaw0xyDha3tLSeucEAq1Y4LUj&ust=1701573584594000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCOCYztvl74IDFQAAAAAdAAAAABAI)
